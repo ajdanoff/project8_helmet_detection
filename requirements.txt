@@ -1,0 +1,18 @@
+# Core
+ultralytics>=8.4.0
+vllm>=0.6.0
+transformers>=4.45.0
+
+# Data & Utils
+pillow>=10.0.0
+requests>=2.31.0
+tqdm>=4.66.0
+pyyaml>=6.0
+
+# Visualization & Analysis
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=7.0.0

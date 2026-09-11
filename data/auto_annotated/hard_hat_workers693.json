@@ -1,0 +1,89 @@
+{
+  "image_name": "hard_hat_workers693.png",
+  "image_width": 416,
+  "image_height": 415,
+  "detections": [
+    {
+      "bbox": [
+        372,
+        254,
+        398,
+        309
+      ],
+      "label": "without_helmet"
+    },
+    {
+      "bbox": [
+        289,
+        268,
+        328,
+        347
+      ],
+      "label": "without_helmet"
+    },
+    {
+      "bbox": [
+        224,
+        249,
+        262,
+        351
+      ],
+      "label": "without_helmet"
+    },
+    {
+      "bbox": [
+        176,
+        249,
+        204,
+        351
+      ],
+      "label": "without_helmet"
+    },
+    {
+      "bbox": [
+        130,
+        252,
+        162,
+        351
+      ],
+      "label": "without_helmet"
+    },
+    {
+      "bbox": [
+        107,
+        252,
+        137,
+        374
+      ],
+      "label": "without_helmet"
+    },
+    {
+      "bbox": [
+        80,
+        252,
+        109,
+        374
+      ],
+      "label": "without_helmet"
+    },
+    {
+      "bbox": [
+        55,
+        252,
+        80,
+        374
+      ],
+      "label": "without_helmet"
+    },
+    {
+      "bbox": [
+        28,
+        252,
+        55,
+        374
+      ],
+      "label": "without_helmet"
+    }
+  ],
+  "raw_vqa_response": "{\n  \"detections\": [\n    {\n      \"bbox\": [372, 254, 398, 309],\n      \"label\": \"without_helmet\"\n    },\n    {\n      \"bbox\": [289, 268, 328, 347],\n      \"label\": \"without_helmet\"\n    },\n    {\n      \"bbox\": [224, 249, 262, 351],\n      \"label\": \"without_helmet\"\n    },\n    {\n      \"bbox\": [176, 249, 204, 351],\n      \"label\": \"without_helmet\"\n    },\n    {\n      \"bbox\": [130, 252, 162, 351],\n      \"label\": \"without_helmet\"\n    },\n    {\n      \"bbox\": [107, 252, 137, 374],\n      \"label\": \"without_helmet\"\n    },\n    {\n      \"bbox\": [80, 252, 109, 374],\n      \"label\": \"without_helmet\"\n    },\n    {\n      \"bbox\": [55, 252, 80, 374],\n      \"label\": \"without_helmet\"\n    },\n    {\n      \"bbox\": [28, 252, 55, 374],\n      \"label\": \"without_helmet\"\n    }\n  ]\n}"
+}

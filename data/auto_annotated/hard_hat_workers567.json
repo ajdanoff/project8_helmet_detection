@@ -1,0 +1,26 @@
+{
+  "image_name": "hard_hat_workers567.png",
+  "image_width": 416,
+  "image_height": 415,
+  "detections": [
+    {
+      "bbox": [
+        97,
+        198,
+        162,
+        283
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        50,
+        234,
+        104,
+        325
+      ],
+      "label": "with_helmet"
+    }
+  ],
+  "raw_vqa_response": "{\n  \"detections\": [\n    {\n      \"bbox\": [97, 198, 162, 283],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [50, 234, 104, 325],\n      \"label\": \"with_helmet\"\n    }\n  ]\n}"
+}

@@ -1,0 +1,44 @@
+{
+  "image_name": "hard_hat_workers902.png",
+  "image_width": 416,
+  "image_height": 416,
+  "detections": [
+    {
+      "bbox": [
+        30,
+        107,
+        85,
+        292
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        37,
+        36,
+        141,
+        382
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        318,
+        297,
+        415,
+        415
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        378,
+        332,
+        415,
+        415
+      ],
+      "label": "with_helmet"
+    }
+  ],
+  "raw_vqa_response": "{\n  \"detections\": [\n    {\n      \"bbox\": [30, 107, 85, 292],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [37, 36, 141, 382],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [318, 297, 416, 448],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [378, 332, 420, 448],\n      \"label\": \"with_helmet\"\n    }\n  ]\n}"
+}

@@ -1,0 +1,107 @@
+{
+  "image_name": "hard_hat_workers732.png",
+  "image_width": 416,
+  "image_height": 416,
+  "detections": [
+    {
+      "bbox": [
+        20,
+        195,
+        67,
+        368
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        62,
+        199,
+        96,
+        337
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        94,
+        195,
+        124,
+        337
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        108,
+        132,
+        170,
+        415
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        160,
+        185,
+        188,
+        346
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        188,
+        142,
+        248,
+        415
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        246,
+        189,
+        262,
+        272
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        249,
+        189,
+        262,
+        272
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        273,
+        174,
+        323,
+        374
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        322,
+        176,
+        380,
+        359
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        388,
+        195,
+        415,
+        344
+      ],
+      "label": "with_helmet"
+    }
+  ],
+  "raw_vqa_response": "{\n  \"detections\": [\n    {\n      \"bbox\": [20, 195, 67, 368],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [62, 199, 96, 337],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [94, 195, 124, 337],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [108, 132, 170, 420],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [160, 185, 188, 346],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [188, 142, 248, 416],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [246, 189, 262, 272],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [249, 189, 262, 272],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [273, 174, 323, 374],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [322, 176, 380, 359],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [388, 195, 420, 344],\n      \"label\": \"with_helmet\"\n    }\n  ]\n}"
+}

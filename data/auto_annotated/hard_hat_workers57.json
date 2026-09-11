@@ -1,0 +1,89 @@
+{
+  "image_name": "hard_hat_workers57.png",
+  "image_width": 416,
+  "image_height": 416,
+  "detections": [
+    {
+      "bbox": [
+        238,
+        129,
+        385,
+        415
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        166,
+        117,
+        270,
+        415
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        100,
+        132,
+        182,
+        415
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        16,
+        134,
+        104,
+        415
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        56,
+        0,
+        114,
+        62
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        114,
+        0,
+        166,
+        62
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        182,
+        0,
+        231,
+        62
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        258,
+        0,
+        316,
+        62
+      ],
+      "label": "with_helmet"
+    },
+    {
+      "bbox": [
+        306,
+        0,
+        354,
+        62
+      ],
+      "label": "with_helmet"
+    }
+  ],
+  "raw_vqa_response": "{\n  \"detections\": [\n    {\n      \"bbox\": [238, 129, 385, 447],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [166, 117, 270, 447],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [100, 132, 182, 447],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [16, 134, 104, 447],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [56, 0, 114, 62],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [114, 0, 166, 62],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [182, 0, 231, 62],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [258, 0, 316, 62],\n      \"label\": \"with_helmet\"\n    },\n    {\n      \"bbox\": [306, 0, 354, 62],\n      \"label\": \"with_helmet\"\n    }\n  ]\n}"
+}

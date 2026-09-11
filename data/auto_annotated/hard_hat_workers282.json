@@ -1,0 +1,17 @@
+{
+  "image_name": "hard_hat_workers282.png",
+  "image_width": 416,
+  "image_height": 416,
+  "detections": [
+    {
+      "bbox": [
+        89,
+        92,
+        253,
+        370
+      ],
+      "label": "with_helmet"
+    }
+  ],
+  "raw_vqa_response": "{\n  \"detections\": [\n    {\n      \"bbox\": [89, 92, 253, 370],\n      \"label\": \"with_helmet\"\n    }\n  ]\n}"
+}
